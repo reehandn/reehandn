@@ -4,11 +4,9 @@ Perkenalkan nama saya **Raihan Dharma Nugroho**.<br>
 
 Saya seorang **Mahasiswa** di Universitas Udayana.<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Kesibukan saya sekarang yaitu mengikuti Program Asah by Dicoding sebagai Machine Learning Cohort<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/raihan-dharma-nugroho-210063376/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/reehandn)ku ya.
 
 <p align="left">
 <a href="https://github.com/reehandn">
