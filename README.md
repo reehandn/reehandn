@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa** di Universitas Udayana.<br>
 
 Kesibukan saya sekarang yaitu mengikuti Program Asah by Dicoding sebagai Machine Learning Cohort<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/reehandn)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/reehandn/)ku ya.
 
 <p align="left">
 <a href="https://github.com/reehandn">
