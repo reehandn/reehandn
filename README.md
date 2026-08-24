@@ -13,10 +13,11 @@ Saya merupakan mahasiswa semester 7 Program Studi Teknologi Informasi, Universit
 
 ### 📫 Mari Terhubung
 
-Saya selalu terbuka untuk memperluas jaringan profesional. Saya juga meng-upload hasil insight yang saya temukan di platform berikut. Jika Anda ingin berdiskusi atau berkolaborasi, silakan hubungi saya melalui:
+Saya selalu terbuka untuk memperluas jaringan profesional. Saya juga meng-upload hasil insight yang saya temukan di platform berikut, and also on Instagram. Jika Anda ingin berdiskusi atau berkolaborasi, silakan hubungi saya melalui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raihan_Dharma_Nugroho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reehandn/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-Raihan_Dharma_Nugroho-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reehan.dn/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Raihan_Dharma_Nugroho-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281230081280)
 ---
 
 ### 📊 Statistik GitHub
