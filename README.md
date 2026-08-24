@@ -1,13 +1,13 @@
-# Halo! Saya Raihan Dharma Nugroho 👋
+# Greetings! it's Raihan Dharma Nugroho 👋
 
-Saya adalah seorang mahasiswa yang memiliki ketertarikan besar di bidang teknologi, khususnya pada pengembangan kecerdasan buatan. Saat ini, saya sedang fokus memperdalam pengetahuan dan keterampilan untuk membangun model prediktif serta solusi berbasis data.
+Saya merupakan mahasiswa semester 7 Program Studi Teknologi Informasi, Universitas Udayana, dengan ketertarikan pada bidang Artificial Intelligence dan Data Science. Saat ini, saya mengembangkan kemampuan dalam data cleaning, Exploratory Data Analysis (EDA), pembangunan model prediksi dan analisis sentimen, serta penyajian insight melalui dashboard berbasis Streamlit menggunakan Python, Power BI, Tableau dan Excel. Saya tertarik menggali insight dari data untuk menghasilkan solusi yang relevan dan dapat diterapkan pada berbagai sektor, khususnya finance, kesehatan, dan operasional.
 
 ### 👨‍💻 Tentang Saya
 
 * 🎓 **Pendidikan:** Mahasiswa di Universitas Udayana.
-* 🔭 **Aktivitas Saat Ini:** Sedang mengikuti **Program Asah by Dicoding** sebagai *Machine Learning Cohort*.
+* 🔭 **Aktivitas Saat Ini:** Sedang mengikuti Bootcamp.
 * 🌱 **Fokus Pembelajaran:** *Machine Learning*, *Data Science*, dan *Artificial Intelligence*.
-* 🤝 **Kolaborasi:** Terbuka untuk diskusi atau kolaborasi pada proyek-proyek *open-source* yang berkaitan dengan data dan *machine learning*.
+* 🤝 **Kolaborasi:** Terbuka untuk pekerjaan, diskusi atau kolaborasi pada proyek-proyek *open-source* yang berkaitan dengan data dan *machine learning*.
 
 ---
 
